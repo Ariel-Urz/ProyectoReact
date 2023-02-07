@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "idCategoria": "drama",
+        "nombre": "Nombre 1",
+        "autor": "Autor 1",
+        "editorial": "Editorial 1",
+        "descripcion": "Descripcion",
+        "precio": 1,
+        "stock": 100,
+        "img": "La-vida-despues-de-ella.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": "drama",
+        "nombre": "Nombre 2",
+        "autor": "Autor 2",
+        "editorial": "Editorial 2",
+        "descripcion": "Descripcion",
+        "precio": 2,
+        "stock": 100,
+        "img": "Flor-de-cerezo.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": "drama",
+        "nombre": "Nombre 3",
+        "autor": "Autor 3",
+        "editorial": "Editorial 3",
+        "descripcion": "Descripcion",
+        "precio": 3,
+        "stock": 100,
+        "img": "Por-trece-razones.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": "ciencia ficcion",
+        "nombre": "Nombre 4",
+        "autor": "Autor 4",
+        "editorial": "Editorial 4",
+        "descripcion": "Descripcion",
+        "precio": 4,
+        "stock": 100,
+        "img": "1984.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": "ciencia ficcion",
+        "nombre": "Nombre 5",
+        "autor": "Autor 5",
+        "editorial": "Editorial 5",
+        "descripcion": "Descripcion",
+        "precio": 5,
+        "stock": 100,
+        "img": "Los-juegos-del-hambre.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": "ciencia ficcion",
+        "nombre": "Nombre 6",
+        "autor": "Autor 6",
+        "editorial": "Editorial 6",
+        "descripcion": "Descripcion",
+        "precio": 6,
+        "stock": 100,
+        "img": "Yo-robot.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": "terror",
+        "nombre": "Nombre 7",
+        "autor": "Autor 7",
+        "editorial": "Editorial 7",
+        "descripcion": "Descripcion",
+        "precio": 7,
+        "stock": 100,
+        "img": "It.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": "terror",
+        "nombre": "Nombre 8",
+        "autor": "Autor 8",
+        "editorial": "Editorial 8",
+        "descripcion": "Descripcion",
+        "precio": 8,
+        "stock": 100,
+        "img": "Dracula.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": "terror",
+        "nombre": "Nombre 9",
+        "autor": "Autor 9",
+        "editorial": "Editorial 9",
+        "descripcion": "Descripcion",
+        "precio": 9,
+        "stock": 100,
+        "img": "La-Cabana.jpeg"
+    },
+    {
+        "id": 10,
+        "idCategoria": "policial",
+        "nombre": "Nombre 10",
+        "autor": "Autor 10",
+        "editorial": "Editorial 10",
+        "descripcion": "Descripcion",
+        "precio": 10,
+        "stock": 100,
+        "img": "El-curioso-incidente-del-perro-a-medianoche.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": "policial",
+        "nombre": "Nombre 11",
+        "autor": "Autor 11",
+        "editorial": "Editorial 11",
+        "descripcion": "Descripcion",
+        "precio": 11,
+        "stock": 100,
+        "img": "Nudos-y-cruces.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": "policial",
+        "nombre": "Nombre 12",
+        "autor": "Autor 12",
+        "editorial": "Editorial 12",
+        "descripcion": "Descripcion",
+        "precio": 12,
+        "stock": 100,
+        "img": "El-espia-que-surgio-del-frio.jpg"
+    }
+
+]
