@@ -1,0 +1,199 @@
+
+.bg-primary{
+    color: white
+}
+.imgLogo{
+    height: 100px;
+    width: 100px;
+}
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(3,4,49,1) 15%, rgba(8,34,138,1) 35%, rgba(1,200,247,1) 50%, rgba(9,9,121,1) 65%, rgba(2,1,39,1) 85%, rgba(2,0,36,1) 100%);
+}
+.navbar.bg-primary{
+    background: rgb(1,200,247);
+    background: linear-gradient(180deg, rgb(71, 71, 71) 0%, rgb(0, 0, 0) 25%, rgb(0, 0, 0) 50%, rgb(0, 0, 0) 75%, rgb(0, 0, 0) 100%);
+    
+}
+
+.navbar-nav{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 400px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.boton-carrito {
+    border: none;
+    color: royalblue;
+    font-size: 30px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 10px 20px;
+    transition: all .3s; }
+  .boton-carrito:hover {
+    cursor: pointer;
+    color: white;
+    background-color: #fa7d00; }
+  .boton-carrito:focus {
+    outline: none; }
+
+.boton-carrito {
+    border: none;
+    color: royalblue;
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    padding: 10px 20px;
+    margin-right: 15px;
+    transition: all .3s; }
+  .boton-carrito:hover {
+    cursor: pointer;
+    color: white;
+    background-color: #fa7d00; }
+  .boton-carrito:focus {
+    outline: none; }
+
+/*botoDark*/
+.botonDark-carrito {
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    background-color: rgb(156, 156, 156);
+    border-radius: 50%;
+    padding: 10px 20px;
+    margin-right: 15px;
+    transition: all .3s; }
+  .botonDark-carrito:hover {
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background-color: #090909; }
+  .botonDark-carrito:focus {
+    outline: none; }
+
+.nav-item{
+    margin-left: 30px;
+}
+
+.grillaCard{
+    
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    gap: 25px;
+}
+.grillaImg{
+    
+    margin-top: 10px;
+
+}
+.cardBody{
+    background-color: rgb(255, 255, 255);
+    width: 20rem;
+    height: 43rem;
+    border: solid 2px rgb(255, 255, 255);
+    border-radius: 10px;
+    padding-bottom: 10px;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 55%, rgba(230,227,246,1) 63%, rgba(213,208,240,1) 73%, rgba(43,21,181,1) 82%, rgba(0,0,0,1) 92%, rgba(0,0,0,1) 100%);
+    
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.cardBodyDark{
+    background-color:rgba(61, 59, 59, 0.856) ;
+    width: 20rem;
+    height: 43rem;
+    border: solid 1px rgb(252, 254, 255);
+    border-radius: 10px;
+    padding-bottom: 10px;
+    
+}
+.row{
+    align-items: center;
+}
+
+.cardDetail {
+    border: solid rgb(4, 146, 248) 2px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 800px;
+}
+.cardDetailDark {
+    background-color:rgba(61, 59, 59, 0.856) ;
+    border: solid 2px rgb(252, 254, 255);
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 800px;
+}
+
+.darkMode{
+    background-color: black;
+    color: rgb(232, 232, 232);
+}
+
+.cardCart{
+    width: 620px;
+    margin-top: 20px;
+    
+
+}
+.cardCartDark{
+    width: 620px;
+    margin-top: 20px;
+    background: black;
+    
+}
+.text{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+.cartConteiner{
+    margin: 10px;
+}
+.imgCart{
+    width: 90px;
+    height: 120px;
+}
+
+.footer{
+    background: rgba(61, 59, 59, 0.856);
+    height: 150px;
+    margin-top: 50px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.card-text{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+.card-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    
+}
+.btn{
+    margin:5px;
+}
+.requerid{
+    color: red;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
